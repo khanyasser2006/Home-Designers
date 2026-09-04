@@ -116,7 +116,7 @@ http://localhost:5173
 
 ---
 
-## 🎥 Demo
+## 🎥 Video
 
 *Add a screen recording of the hero flythrough here — and don't forget to toggle the ambient soundscape on, since that's a detail a silent recording won't capture either.*
 
