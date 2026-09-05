@@ -118,6 +118,10 @@ http://localhost:5173
 
 ## 🎥 Video
 
-*Add a screen recording of the hero flythrough here — and don't forget to toggle the ambient soundscape on, since that's a detail a silent recording won't capture either.*
+
+
+https://github.com/user-attachments/assets/9b79a268-4d9d-472d-a1bd-5b46d5f15048
+
+
 
 ---
